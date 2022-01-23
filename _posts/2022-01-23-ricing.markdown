@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Ricing"
+date:   2022-01-23 10:26:02 +0530
+categories: Linux
+---
+
+This will be my forst blog. Stay tuned!
